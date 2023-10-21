@@ -6,7 +6,7 @@ This repository contains the lecture slides for the Coursera course [Data Analys
 
 To download the folder with the slides for all lectures, click on the button to download the zip file above. 
 
-## Installing the software
+## Installing the software!
 
 You will need to install [R](http://cran.rstudio.com/), [Rstudio](http://www.rstudio.com/ide/download/) and Slidify. To install Slidify, open Rstudio and run the commands:
 
